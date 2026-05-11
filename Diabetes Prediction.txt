@@ -1,0 +1,19 @@
+# Diabetes Prognostication Using Machine Learning
+
+## Overview
+Machine Learning project to predict diabetes risk based on patient medical data.
+
+## Tech Stack
+- Python, Pandas, NumPy
+- Scikit-learn for ML models
+- Matplotlib, Seaborn for visualization
+
+## What I Did
+- Cleaned and analyzed the Pima Indians Diabetes dataset
+- Trained Random Forest and Logistic Regression models
+- Achieved 78% accuracy with Random Forest
+
+## How to Run
+1. Clone the repo
+2. Install requirements: `pip install -r requirements.txt`
+3. Run `diabetes_prediction.ipynb`
